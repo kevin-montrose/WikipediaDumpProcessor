@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@bhsd/common": "^0.4.4",
+    "wikilint": "^2.13.4",
+    "wikiparser-node": "^1.13.4"
+  }
+}
